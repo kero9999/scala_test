@@ -11,6 +11,7 @@
     <modules>
         <module>20190806_V1.0</module>
         <module>20190807_V1.0</module>
+        <module>20190809_V1.0</module>
     </modules>
 
     <dependencies>

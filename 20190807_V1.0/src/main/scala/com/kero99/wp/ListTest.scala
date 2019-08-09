@@ -26,7 +26,7 @@ object ListTest extends App {
 //  println(list01.tail,list02.init)
 
 
-//  list01.intersect(list02).foreach(println)
+//  list01.intersect(list02).foreach(prin tln)
 
 
   var list=List(
